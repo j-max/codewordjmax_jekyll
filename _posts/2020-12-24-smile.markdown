@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Smile"
+date:   2020-12-24 11:30:12 -0600
+categories: my_diagrams
+---
+
+The design journey of Smile was surprising.  It began with the Mooser Train.  I enjoy the 3D effect of the train cars, and thought that if the connector segments and wheels were removed, I could fashion a block-like row of teeth. The first attempts at such a 3D mouth model looked monstrous, even when fabricated with methyl cellulose treated, correctly colored (white and red) tissue paper. 
+
+![Mooser]({{ site.baseurl }}/assets/my_design_images/smile/mooser_resize.jpg)
+
+
+I would have abandoned the idea if it weren't for an attempt at simplification.  The design process is borderline impossible if the model's base is not flat-foldable.  I tried to adapt the 3D train to create a new object, but iterating off Mooser's design without thinking about flatness let to dead-ends.  Instead of boxes, I simply used crimps to form long rectangles for the teeth.  They are contiguous, but the folds serve to suggest the space between teeth.  Similarly, perpendicular crimps above and below the center line suggest the opening of the mouth.  This base is flat, and very simple.   It is a 64 x 64 grid, with 6 vertical divisions devoted to each tooth.  The final model has 6 upper and 6 lower teeth, so they occupy 18 divisions on each side of the vertical center line, leaving 28 divisions to work with for the lips.
+
+This leads to the next, more difficult challenge: how do I form smooth lips.  In other words, how can I flip the colored side over the white teeth, while avoiding the crimps of the teeth.  After a bunch of experimentation, the solution I found was to split the point of paper along the horizontal center line outside of the 36 tooth divisions.  Then, swivel the exterior portions towards the vertical center (easier done than said).  Luckily, this created a nice, flat frame with a polygonal window through which to view the teeth. 
+
+The last trick is a quick fold of extra paper to create a handle in the back, which allows one to hold the model in front of one's face. Doing so hides some of the extra paper from view, cleaning up the shape of the lips.  It also preserves a bit of boxiness to the model.  In the beginning, I thought this model would be much more organically curved. It turned out pretty geometric.
+
+The end product was completely different from the idea from which it sprung.  The model is the Mooser Train's most distant of cousins, too distant to be named Mooser's Mouth.  
