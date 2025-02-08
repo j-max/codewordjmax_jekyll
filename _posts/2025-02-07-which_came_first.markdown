@@ -11,7 +11,3 @@ Which Came First?
 
 This is my first action model design.  The egg fits into the tail of the chicken. Once the egg is loaded, you left the head up, then down, and the egg ejects from the tail.  
 
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
