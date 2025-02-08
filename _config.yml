@@ -20,17 +20,29 @@
 
 title: codewordjmax
 email: jmax.barry@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Welcome! In this site, you will find original origami designs created by me, as well as a blog about origami. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  j-max
+
+sass:
+  style: compressed       # This controls the output style of the compiled CSS
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  general_blog:
+    output: true
+    permalink: /general_blog/:path/
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

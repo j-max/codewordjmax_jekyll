@@ -1,0 +1,57 @@
+---
+---
+/* Styling for the post list */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  width: 100%; /* Ensure it takes up the full width */
+}
+
+.post-list li {
+  text-align: left;
+  display: block;
+  margin-bottom: 10px;
+  width: 100%; /* Ensure each list item takes the full width */
+}
+
+.post-list-heading {
+  text-align: left;
+  font-size: 1.5em; /* Larger font for the heading */
+  font-weight: bold; /* Bold font */
+  margin-bottom: 10px; /* Space below the heading */
+  width: 100%;
+}
+
+/* Flexbox layout for the home section */
+.home {
+  display: flex; /* Use flexbox for images */
+  flex-wrap: wrap; /* Allow images to wrap to the next line */
+  justify-content: space-between; /* Space out images evenly */
+  padding-bottom: 20px; /* Add space below the images */
+}
+
+/* Styling for individual images */
+.home-banner {
+  flex: 1 1 25%; /* Allow images to grow and shrink; base width is 25% */
+  max-width: 300px; /* Set a max width for images */
+  max-height: 300px;
+  padding: 10px; /* Add padding around images */
+  box-sizing: border-box; /* Ensure padding is included in width */
+
+}
+
+/* Container styles */
+.container, .wrapper, .content {
+  text-align: left;
+  width: 100%; /* Ensure full width */
+  max-width: 100%; /* Prevent max-width limitations */
+}
+
+/* Style for the posts section */
+.posts {
+  background-color: #f9f9f9; /* Light background color */
+  padding: 20px; /* Add padding for spacing */
+
+}

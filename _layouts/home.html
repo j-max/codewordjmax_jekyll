@@ -1,24 +1,27 @@
 ---
 layout: default
 ---
+<head>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
 
 <div class="home">
-
-  <img src="{{ site.baseurl }}/assets/my_design_images/which_came_first/which_came_first.jpg" alt="Which Came First?" class="home-banner" height="200" width="200" >
-  <img src="{{ site.baseurl }}/assets/my_design_images/snapdragon/snapdragon_20241102_resized.jpg" alt="Snapdragon" class="home-banner" height="200" width="200" > 
-  <!-- add wen's cat <img src="{{ site.baseurl }}/assets/my_design_images/boxydox/boxydox_resized.jpg" alt="boxy dox" class="home-banner" height="200" width="200" >  -->
-  <img src="{{ site.baseurl }}/assets/my_design_images/penguin/penguin_resized.jpg" alt="Penguin" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/hatching_chick/hatching_chick_resized.jpg" alt="hatching_chick" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/finaldraught/final_draught_resized.jpg" alt="final draft" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/smile/smile_resize.jpg" alt="smile" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/boxydox/boxydox_resized.jpg" alt="boxy dox" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/bleedingheart/bleedingheart_resized.jpg" alt="bleeding heart" class="home-banner" height="200" width="200" > 
-  <img src="{{ site.baseurl }}/assets/my_design_images/tonguesout/tonguesout.jpg" alt="tongues out" class="home-banner" height="200" width="200" > 
-  
+<div>
+  <img src="{{ site.baseurl }}/assets/my_design_images/which_came_first/which_came_first.jpg" alt="Which Came First?" class="home-banner" height="300" width="300" >
+  <img src="{{ site.baseurl }}/assets/my_design_images/snapdragon/snapdragon_20241102_resized.jpg" alt="Snapdragon" class="home-banner" height="300" width="300" > 
+  <!-- add wen's cat <img src="{{ site.baseurl }}/assets/my_design_images/boxydox/boxydox_resized.jpg" alt="boxy dox" class="home-banner" height="300" width="300" >  -->
+  <img src="{{ site.baseurl }}/assets/my_design_images/penguin/penguin_resized.jpg" alt="Penguin" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/hatching_chick/hatching_chick_resized.jpg" alt="hatching_chick" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/finaldraught/final_draught_resized.jpg" alt="final draft" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/smile/smile_resize.jpg" alt="smile" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/boxydox/boxydox_resized.jpg" alt="boxy dox" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/bleedingheart/bleedingheart_resized.jpg" alt="bleeding heart" class="home-banner" height="300" width="300" > 
+  <img src="{{ site.baseurl }}/assets/my_design_images/tonguesout/tonguesout.jpg" alt="tongues out" class="home-banner" height="300" width="300" > 
+</div>
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+<div class="posts">
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
@@ -43,4 +46,5 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
+</div>
 </div>
