@@ -9,5 +9,5 @@ categories: my_diagrams
 
 Which Came First?
 
-This is my first action model design.  The egg fits into the tail of the chicken. Once the egg is loaded, you left the head up, then down, and the egg ejects from the tail.  
+This is my first action model design.  The egg fits into the tail of the chicken. Once the egg is loaded, lift the head up, then down, and the chicken lays the egg.  
 
