@@ -2,7 +2,7 @@
 layout: post
 title:  "Two People In Bed"
 date:   2025-02-08 11:30:12
-categories: my_diagrams
+categories: origami
 ---
 
 ![Two People in Bed]({{ site.baseurl }}/assets/my_design_images/two_people_in_bed/two_people_in_bed.jpg)

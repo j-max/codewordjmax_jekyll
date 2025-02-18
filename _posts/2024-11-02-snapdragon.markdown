@@ -2,7 +2,7 @@
 layout: post
 title:  "Snapdragon"
 date:   2025-02-07 11:30:12 -0600
-categories: my_diagrams
+categories: origami
 ---
 
 ![snapdragon image]({{ site.baseurl }}/assets/my_design_images/snapdragon/snapdragon_20241102_resized.jpg)

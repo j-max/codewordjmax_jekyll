@@ -2,7 +2,7 @@
 layout: post
 title:  "Smile"
 date:   2020-12-24 11:30:12 -0600
-categories: my_diagrams
+categories: origami
 ---
 
 The design journey of Smile was surprising.  It began with the Mooser Train.  I enjoy the 3D effect of the train cars, and thought that if the connector segments and wheels were removed, I could fashion a block-like row of teeth. The first attempts at such a 3D mouth model looked monstrous, even when fabricated with methyl cellulose treated, correctly colored (white and red) tissue paper. 

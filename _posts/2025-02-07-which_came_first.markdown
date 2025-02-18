@@ -2,7 +2,7 @@
 layout: post
 title:  "Which Came First?"
 date:   2025-02-07 11:30:12 -0600
-categories: my_diagrams
+categories: origami
 ---
 
 ![Which Came First]({{ site.baseurl }}/assets/my_design_images/which_came_first/which_came_first.jpg)
