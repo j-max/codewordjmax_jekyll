@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nakashim Skull Bookmark"
+title:  "Nakashima Skull Bookmark"
 date:   2025-02-18 10:19:12
 categories: origami
 ---
