@@ -2,7 +2,7 @@
 layout: post
 title:  "Crossword"
 date:   2025-02-19 11:32:12 
-categories: origami
+categories: literature
 ---
 
 Working on a crossword puzzle requires stamina. After 15 minutes of work, the clues become more difficult to solve.  After a restful break, where the mind is allowed to recharge, the answers appear more easily.  
