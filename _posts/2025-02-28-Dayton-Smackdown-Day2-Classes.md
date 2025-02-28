@@ -19,8 +19,6 @@ Doing this exercise exposed my balance problems.  While swinging my left leg, I 
 
 Rafal and Irina led the last class of the weekend. We focused on feeling the music and getting into the groove.  To do so, we practiced a triple step in place which was similar to a pas de bourrée.  The triple step could also be simply a step-tap.  I noticed a stylistic variation Rafal used where he delayed the step for a millisecond, then snapping down his foot to create a sharp accent.  Rafal and Irina got us to sink our body into the steps to get us to feel the music in our cores.  
 
-Irina and Rafal used Dawn Hampton as an example of a dancer who felt the music deeply. Here's a video of Dawn Hampton talking about just that: 
+Irina and Rafal used Dawn Hampton as an example of a dancer who felt the music deeply. Here's a [video of Dawn Hampton](https://www.youtube.com/watch?v=tEny_nB5yyA) talking about that very thing.
 
-[Dawn Hampton](https://www.youtube.com/watch?v=tEny_nB5yyA)
-
-A Smackdown dancer informed the group that Dawn Hampton was born in Middletown, Ohio, which is just over 30 minutes away from Dayton. 
+Near the end of class, a Smackdown dancer left us with a great fact. Dawn Hampton was born in Middletown, Ohio, which is just over 30 minutes away from Dayton. 
