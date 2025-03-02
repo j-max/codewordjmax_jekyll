@@ -13,3 +13,52 @@ title: "Dance Blog"
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
+
+<h2>People Mentioned in Dance Posts</h2>
+<ul>
+  {% assign people_posts = "" | split: "," %}
+
+  {% for post in site.posts %}
+    {% if post.categories contains "dance" and post.dance_people %}
+      {% assign post_people = post.dance_people | split: " " %}
+      {% for person in post_people %}
+        {% assign formatted_person = person | replace: "_", " " %}
+        {% assign entry = formatted_person | append: "|" | append: post.url | append: "|" | append: post.title %}
+        {% unless people_posts contains entry %}
+          {% assign people_posts = people_posts | push: entry %}
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign unique_people = "" | split: "," %}
+  {% for entry in people_posts %}
+    {% assign person = entry | split: "|" | first %}
+    {% unless unique_people contains person %}
+      {% assign unique_people = unique_people | push: person %}
+    {% endunless %}
+  {% endfor %}
+
+  {% assign sorted_people = unique_people | sort %}
+
+  {% for person in sorted_people %}
+    {% assign split_name = person | split: " " %}
+    {% assign last_name = split_name | first | capitalize %}  <!-- Capitalize the last name -->
+    {% assign first_name = split_name | slice: 1, split_name.size | join: " " | capitalize %}  <!-- Capitalize the first name(s) -->
+
+    <li>
+      {{ last_name }}, {{ first_name }} -  <!-- Display last name followed by first name with a comma -->
+      <ul>
+        {% for entry in people_posts %}
+          {% assign entry_parts = entry | split: "|" %}
+          {% assign entry_person = entry_parts[0] %}
+          {% assign entry_url = entry_parts[1] %}
+          {% assign entry_title = entry_parts[2] %}
+          {% if entry_person == person %}
+            <li><a href="{{ entry_url }}">{{ entry_title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
