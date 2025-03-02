@@ -22,3 +22,7 @@ Rafal and Irina led the last class of the weekend. We focused on feeling the mus
 Irina and Rafal used Dawn Hampton as an example of a dancer who felt the music deeply. Here's a [video of Dawn Hampton](https://www.youtube.com/watch?v=tEny_nB5yyA) talking about that very thing.
 
 Near the end of class, a Smackdown dancer left us with a great fact. Dawn Hampton was born in Middletown, Ohio, which is just over 30 minutes away from Dayton. 
+
+### Note, 2025-03-02
+
+I've been thinking more about what Dawn Hampton says, "Learn the songs. Learn where the breaks are" (02:55).  I've not thought about breaks as literal breaks in the music, where the rhythm section stops playing. Dawn says, "Whenever the band takes a break, you take it with them."  I never thought of it that way, probably because my first engagement with a break was during the Shim-Sham, where the music is accompanied with a TOBA break.
