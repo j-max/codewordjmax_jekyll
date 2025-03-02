@@ -13,3 +13,52 @@ title: "Origami Blog"
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
+
+<h2>People Mentioned in Origami Posts</h2>
+<ul>
+  {% assign origami_people_posts = "" | split: "," %}
+
+  {% for post in site.posts %}
+    {% if post.categories contains "origami" and post.origami_people %}
+      {% assign post_people = post.origami_people | split: " " %}
+      {% for person in post_people %}
+        {% assign formatted_person = person | replace: "_", " " %}
+        {% assign entry = formatted_person | append: "|" | append: post.url | append: "|" | append: post.title %}
+        {% unless origami_people_posts contains entry %}
+          {% assign origami_people_posts = origami_people_posts | push: entry %}
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign unique_origami_people = "" | split: "," %}
+  {% for entry in origami_people_posts %}
+    {% assign person = entry | split: "|" | first %}
+    {% unless unique_origami_people contains person %}
+      {% assign unique_origami_people = unique_origami_people | push: person %}
+    {% endunless %}
+  {% endfor %}
+
+  {% assign sorted_origami_people = unique_origami_people | sort %}
+
+  {% for person in sorted_origami_people %}
+    {% assign split_name = person | split: " " %}
+    {% assign last_name = split_name | first | capitalize %}  <!-- Capitalize the last name -->
+    {% assign first_name = split_name | slice: 1, split_name.size | join: " " | capitalize %}  <!-- Capitalize the first name(s) -->
+
+    <li>
+      {{ last_name }}, {{ first_name }} -  <!-- Display last name followed by first name with a comma -->
+      <ul>
+        {% for entry in origami_people_posts %}
+          {% assign entry_parts = entry | split: "|" %}
+          {% assign entry_person = entry_parts[0] %}
+          {% assign entry_url = entry_parts[1] %}
+          {% assign entry_title = entry_parts[2] %}
+          {% if entry_person == person %}
+            <li><a href="{{ entry_url }}">{{ entry_title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
