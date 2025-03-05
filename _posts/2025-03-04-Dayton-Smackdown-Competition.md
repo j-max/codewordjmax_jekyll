@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dayton Smackdown Competition"
-date:   2025-03-04 08:50:12 
+date:   2025-03-04 21:58:12 
 categories: dance swing
 dance_people: crutcher_cole kapaku_kerry hines_earl
 dance_moves: swingout susie_q 
