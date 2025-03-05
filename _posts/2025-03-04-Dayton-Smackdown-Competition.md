@@ -8,7 +8,7 @@ dance_moves: swingout susie_q
 ---
 
 
-The main event at Dayton is the team competition, held on Saturday evening.  This year, 13 teams performed choreographed performances.  My team, Traffic Jam Swing, went first, which was a fun experience. It felt like we were setting the tone for the night, which I think we did well, since the rest of the groups were tremendous. The audience was frenetic and super supportive.  It feels to me a bit like it did when I played high school in soccer, but with the excess competitiveness of sports refocused into creativity and community building.  
+The main event at Dayton is the team competition, held on Saturday evening.  This year, 13 teams performed choreographed performances.  My team, Traffic Jam Swing, went first, which was a fun experience. It felt like we were setting the tone for the night, which I think we did well, since the rest of the groups were tremendous. The audience was frenetic and super supportive.  It feels to me a bit like it did when I played high school soccer, but with the excess competitiveness of sports refocused into creativity and community building.  
 
 Here is a video of our performance, danced to a live recording of Earl Hine's "Up Jumped the Devil": 
 
