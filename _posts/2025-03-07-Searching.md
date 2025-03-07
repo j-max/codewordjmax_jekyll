@@ -18,7 +18,7 @@ The then gives a personal example of a book about Barcelona.  "All I remember", 
     I kept my light on late into the night     
     turning all those pages, searching for you everywhere.  
 
-I have often experienced what Collins describes.  I remember how pressing it once felt to track down the source of a quote about loving a woman for singing. I I eventually found it in King Lear, when Kent is talking about his age:
+I have often experienced what Collins describes.  I remember how pressing it once felt to track down the source of a quote about loving a woman for singing. I eventually found it in King Lear, when Kent is talking about his age:
 
     Not so young, sir, 
     to love a woman for singing, 
