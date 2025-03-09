@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Charity, by Tracy Smith"
+title:  "Solo Jazz with Elze Visnevskyte"
 date:   2025-03-09 11:33:30
 categories: dance lindy_hop 
 dance_people: visnevskyte_elze hoffberg_jo davis_miles
