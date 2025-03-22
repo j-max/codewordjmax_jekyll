@@ -47,6 +47,8 @@ During the second half of the class, Caleb taught us a more difficult piece of c
 
 Peter and Naomi taught our first class on the last day.  The class centered around another Frankie-Sixes combo.  It started with an inside turn with an elbow catch that changed the second triple-step into a six count.  The lead then quickly moved to the right side of the follow, and connected hands in the traditional Frankie-Sixes hand arrangement with the right hand behind the back. The combo ended with a follow inside turn, with the lead draping the left hand over their head.  We then added a variation which turned the second triple step after the behind the back connection into a step-step.  We worked on turning our bodies away from each other to make a final follow turn easier. 
 
+While learning this move, Peter and Naomi suggested that the hands of both lead and follow should generally stay at a certain level.  They should circumscribe a circle slightly above the waist.  This makes them available for connection.  
+
 ## Class 7: Erin Moris and Elze Visnevskyte
 
 Erin and Elze taught our last class of the weekend.  They focused on rhythms.  They started by having us making percussive movements: foot stomps, claps, and knee slaps.  We then added these in at various places in some free dances.  They suggested to first add them on the back-beat, i.e. the evens, since that is where the musical emphasis resides.  They said that as we got more comfortable adding these percussive elements, we should experiment with putting them on other beats.   
