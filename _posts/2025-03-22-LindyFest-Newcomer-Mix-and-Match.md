@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  “Lindy Fest - Newcomer Mix and Match”
+title:  Lindy Fest - Newcomer Mix and Match
 date:   2025-03-22 11:36:45
 categories: dance lindy_hop
 ---
+
+![MandM Numbe]({{ site.baseurl }}/assets/dance_images/lindyfest25_newcomer_mandm.jpg)
+
 
 I’ve spoken to a bunch of people about how one continues to grow as a dancer.  The first few years of dance, the leaning curve is steep.  There is a clear path of progress through a set of sequential courses.  Once one reaches the end of that sequence, there is a plateau.  This pattern appears in almost any domain.  The introduction to a new thing feels like it has a dramatic effect.  It feels exhilarating.  In dance, this initial effect resonates through the body, as one learns new ways to express emotion physically.  Then in the plateau, the body and mind starts having more trouble finding new inputs.  Things become less fresh.  There are less epiphanies.  Relatively, I have found that the dance plateaus are less discouraging than other things.  In origami, for example, some plateaus have felt like dead-ends.  I think the difference is in the social community.  Whereas origami is often solitary, dance is almost always social.  Participating in a hobby that shares physical space with other people means new inputs are always available, if you know how to look for them.
 
