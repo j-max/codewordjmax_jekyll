@@ -6,7 +6,7 @@ categories: literature
 writers: yeats_wb dickinson_emily shakespeare_william stevens_wallace hughes_langston smith_tracy jones_saed vuong_ocean silken_richard smith_danez orr_david
 ---
 
-I've been spending time with David Orr's book on poetry, "Beautiful and Pointless." He has a chapter on form, which provides a brief history of poetic structure.  Essentially, he describes a gradual move away from formal tradition, which was heavy meter, syllable count, and often rhyme. The present state of poetry is a grab-bag of poets practicing along the spectrum between free verse and traditional forms.  
+I've been spending time with David Orr's book on poetry, "Beautiful and Pointless." He has a chapter on form, which provides a brief history of poetic structure.  Essentially, he describes a gradual move away from formal tradition, which was heavy in meter, syllable count, and often rhyme. The present state of poetry is a grab-bag of poets practicing along the spectrum between free verse and traditional forms.  
 
 I have had a love-hate relationship with poetry over the past decade.  Reading contemporary poetry in particular often puts me in a bad mood.  While reading some free verse, I question why it is not prose.  The language can be extremely confusing, as if the point was frustrating one's understanding.  Whereas reading fiction has several clear benefits - cultivation of empathy, exercising the imagination, taking a vacation in the mind -  poetry has felt to me somewhat sadistic. 
 
