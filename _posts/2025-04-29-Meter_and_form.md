@@ -19,5 +19,5 @@ But really the benefit of reading the older poets is the effect on modern poetry
 Paying attention to the rhythm and sound pacifies my frustration.  It deescalates the need to understand everything.  And when the stakes are lower, I find I end up understanding more.  I come to appreciate the poet's voice, and receive their ideas more readily.  I see these poets hold uniquely radical opinions, which is a fun juxtaposition against the stereotype of the meek poet. 
 
 
-(1) A line from Danez Smith's poem 'Queen Performing "And I'm Telling You I'm not Going" in a Blue Dress, Saloon Bar, Minneapolis, 07/2022' from his 2024 collection, "Bluff".
+(1) A line from Danez Smith's poem 'Queen Performing "And I'm Telling You I'm not Going" in a Blue Dress, Saloon Bar, Minneapolis, 07/2022' which appears in his 2024 collection, "Bluff".
 
