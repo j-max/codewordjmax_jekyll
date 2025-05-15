@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Reading Poetry vs. Reading Fiction"
-date:   2025-05-14 18:32:30
+date:  2025-05-14 20:00:00
 categories: literature 
-writers:
+writers: smith_danez 
 ---
 
 For the last several weeks, I have read a lot of poetry.  I bought "The Best American Poetry 2024"; I burned through Danez Smith's newest book, "Bluff"; I've returned to Li Young Lee's, "The Undressing". My poetry reading increased because I started reading it in a different way.  Instead of focusing on getting something out of the poem, I focused on rhythm.  Even if a poem was free verse, I applied some sort of meter to it. It didn't necessarily have to be iambic, but I did read it with a sine-wave like pattern in my internal voice.  
