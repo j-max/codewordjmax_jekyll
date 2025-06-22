@@ -3,7 +3,7 @@ layout: post
 title:  "Letting Go of Six Counts"
 date:   2025-03-02 13:46:12
 categories: dance lindy_hop
-dance_people: asaro_paul scharf_natalie paterson_joel parker_jeff strohm_peter amzashvili_irina uyami_naomi wood_nicole holmstrom_john kapaku_kerry manning_frankie hampton_dawn
+dance_people: asaro_paul scharf_natalie paterson_joel parker_jeff strohm_peter amzashvili_irina uyami_naomi wood_nicolle holmstrom_john kapaku_kerry manning_frankie hampton_dawn
 dance_moves: swingout six-count-basic
 ---
 
