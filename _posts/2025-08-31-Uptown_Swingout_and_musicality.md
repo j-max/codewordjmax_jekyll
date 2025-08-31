@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Uptown Swingout and Musicality
+title:  Uptown Swingout and Musicality
 date:   2025-08-31 12:11:20
 categories: dance lindy_hop 
 dance_people:  strom_peter uyama_naomi locatelli_bianca andren_nils kouakou_kouame_ Remi mei_alice kapaku_kerry
