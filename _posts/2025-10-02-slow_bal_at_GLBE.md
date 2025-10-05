@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Slow Bal at Great Lakes Balboa Escape 2025"
+date:   2025-10-02 19:49:30
+categories: dance lindy_hop 
+dance_people: lee_jenn fortanasce_mickey raftery_dean barnett_jen mitchell_matt cunningham_ray kapaku_kerry stout_jonathan scharf_natalie påarker_jeff bednarz_bob baker_riley
+---
+
+Last weekend was my 2nd Great Lakes Balboa Escape.  In 2024, I attended and took the social dancer track.  This year, I decided to do slow balboa.  It turned out to be a weekend of extremes, where I alternately enjoyed the highs and lows of the BPM spectrum.
+
+The slow balboa track was designed to accommodate people with no slow bal experience.  I was one such.  My track started the weekend with Jenn Lee and Mickey Fortanasce.  They led us through the fundamentals of slow bal.  I chose to be a lead for the weekend's classes, so I will describe the basic from the lead's perspective. The basic foot pattern is similar to traditional balboa. Step back with the left foot on one, then back with the right foot, then in with the left on three.  The third step - left foot in - is a slow step (in the sense of quick-quick-slow). In slow balboa, the third step is often performed as a triple.  This makes the dance feel quite distinct from traditional bal, which uses uphold and downhold slow steps on the three.  The second half of the measure reverses the pattern - lead steps right foot forward on five, followed by the left on 6, then triple stepping back inwards with the right foot on 7.  
+
+We began the weekend learning the style developed by Dean Raftery.  On the first triple step on the three, the Raftery style sways in an S-shape towards the left shoulder of the lead.    In contrast, there is the Laminu style, invented by Ray Cunningham.  On the third count, Laminu uses a left-foot glide that is more sideways.   The first step of the triple sweeps into the right like one were performing a smooth crab-walk.  We practiced Laminu on the last class of the weekend. The instructors, Jen Barnett and Matt Mitchell, encouraged us to focus on keeping the weight distribution clear.  On the side-step triple, we made sure to keep the weight on the left foot.  We thought of the triple as a step ball change.  Doing so helps clarify that the majority of the step keeps the weight on the same foot.  The ball part is more of a touch than a weight shift.  Kerry Kapaku has suggested that same idea in Lindy; instead of thinking triple step, think step-ball change.  Matt Mitchell watched me dance a slow bal song, and corrected me to keep my weight clearly on my left, and subsequently the right, when step-ball-changing. 
+
+During the Laminu class, Jen Barnett danced we me, and asked if I were comfortable with a closer connection.  I was unaware that I was not connecting close enough.  After I agreed, she demonstrated how leading slow bal is easier when the part of the chest just inside of the lead's right arm touches the same area on the follow's left.  This body connection then drives the partnership through space.  The left arm does less initiation.  She did, however, correct my left hand grip.  She positioned it to have a more cup-like shape, like the traditional balboa grip.  This allows the hand to perform that in an out tension, like a suction cup. Even though it is not directing the dance, that hand, with that grip, assists the communication of the direction of movement. 
+
+While social dancing, it has taken a little while for me to become comfortable with extreme tempos.  Slow songs often feel awkward. So much Lindy training is done to mid and high-mid tempos.  I have rarely practiced slow song dancing. Additionally, DJ's and bands don't play slow songs very often, probably because they sense the dancers don't feel comfortable with them.  
+
+In addition to Slow Bal, I took a Ballrooomin' class last December taught by Kerry and Bob Bednarz.  Ballroomin' is a slow Lindy step that goes well with blues music.  Admittedly, I have not practiced it very often.  
+
+Still, I have at least devoted some time to two slow techniques.  Hopefully, as a result, I will anticipate slow dancing more often.  Slow dancing feels fruitful.  It requires one to listen to the music.  It zooms in on connection.  It required a type of intimacy which fast tempos can obscure.
+
+Jonathan Stout's orchestra didn't play much slow ball at Great Lakes Balboa Escape.  This meant there wasn't much opportunity to practice what we learned. There was the Slow Bal power hour.  That was DJ'd, which was still fun, but not the same.  Stout's band included two Chicago standards - Natalie Scharf on sax and Jeff Parker on bass.  Riley Baker, who I first heard at Kiss Me, Ann Arbor, was on drums.  Hilary Alexander sang.  Since it was a ballroom full of balboa dancers, the band played a few burners.  This was probably the first time I thoroughly enjoyed a super fast song.  Even though my weekend was a slow bal study, during the dances the standard balboa footwork clicked.  
+
+ 

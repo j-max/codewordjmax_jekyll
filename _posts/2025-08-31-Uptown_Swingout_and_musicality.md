@@ -3,7 +3,7 @@ layout: post
 title:  Uptown Swingout and Musicality
 date:   2025-08-31 12:11:20
 categories: dance lindy_hop 
-dance_people:  strom_peter uyama_naomi locatelli_bianca andren_nils kouakou_kouame_ Remi mei_alice kapaku_kerry
+dance_people:  strom_peter uyama_naomi locatelli_bianca andren_nils kouakou_kouame_Remi mei_alice kapaku_kerry
 ---
 
 Last weekend, a large contingent of Chicago dancers ventured up north to Minneapolis to attend the 2025 Uptown Swingout.  I arrived a bit early to visit a Peace Corps friend who was in Kazakhstan with me a decade or so ago.  We went to the mammoth state fair, where we saw the giant blocks of butter before they were carved into the farmers’ daughters.  I ate what I thought was the first corn dog of my life, but which turned out to be a pancake batter variation called a Pronto Pop.  My friend delighted in loudly booing the Waltz Lies booths.  We saw majestic horses.  We walked along streets dotted with mashed cookies which fell off the overflow of Sweet Martha’s buckets. 
