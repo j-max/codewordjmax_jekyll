@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "St. Louis Get Down 2025"
-date:   2025-11-25 19:49:30
+date:   2025-11-08 19:49:30
 categories: dance lindy_hop 
 dance_people: morris_erin davis_steve parish_b cook_gabby bugh_nathan
 ---
