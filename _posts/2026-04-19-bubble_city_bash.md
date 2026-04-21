@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  Bubble City Bash Class 1 Recap: Sophisticated Swingouts. 
+title:  "Bubble City Bash Class 1 Recap: Sophisticated Swingouts"
 date:   2026-04-20 17:39:20
 categories: dance lindy_hop 
 dance_people:  bugh_nathan morris_erin
+
 ---
 
-Bubble City Bash Class 1 Recap: Sophisticated Swingouts. 
+Bubble City Bash Class 1 Recap: Sophisticated Swingouts
 
 Nathan Bugh and Erin Morris started their Bubble City class series with an hour filled with foundational swingout tips.  They started by having us develop proper distance at the start of a swingout.  We practiced being far enough apart to create tension to draw the partnership together.  Too far a distance broke the frame of the shoulders.  Too close minimized the elasticity. 
 
