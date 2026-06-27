@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  “Second City Swingout 2026 Class Recap”
+title:  Second City Swingout 2026 Class Recap
 date:   2026-06-27 13:12:15
 categories: dance lindy_hop 
 dance_people: white_bobby hicks_usrula weng_kevin ryan_laurel kapaku_kerry faltesek_michael tigert_john quisao_annabell strom_peter uyama_naomi
 ---
 
-# Day 1 Second City Swingout
+## Day 1 Second City Swingout
 
-## Class 1: Bobby White and Ursula Hicks
+# Class 1: Bobby White and Ursula Hicks
 
 In the first class of the weekend, Bobby and Ursula led a non-combo class.  We warmed up with body part isolations, dancing with a partner while focusing on relaxing the ankles, knees, butt, shoulders, and head.  
 
@@ -16,25 +16,25 @@ Ursula then spoke about pelvic alignment.  We practiced tilting our pelvic bowls
 
 The second half of class involved partner experimentation.  Lead and follow messed around with different movements in alternating phrases.  We stayed on one foot and we held poses.  As one partner tried things out, the other held down standard rhythms.  We finished with call and response exercises.  After one partner expressed a body movement, the partner reacted.  Bobby used this exercise to describe a central component of his Lindy Hop style: he first leads a move, observes what his partner does, then reacts to that movement.  One can describe this approach as a constant alternation between leading and following. The roles become more fluid.  
 
-## Class 2: Kevin Weng and Laurel Ryan 
+# Class 2: Kevin Weng and Laurel Ryan 
 
 The second class of the weekend focused on triple step variations.  Kevin and Laurel demonstrated three different triple steps.  In the most common triple step variation, the second footfall, which lands on the “and”, trails behind the forward foot.  We practiced a second variation which moved the “and” step up, so it landed just next to the lead foot.  The third variation moved the “and” step up even further, so it landed in front of the lead foot.  We used these steps while moving around in a circle, changing between the variations and speed.  The third variant was the hardest.  While using it, I felt like I had to skip unnaturally.  This is a bit odd, since the third variant is actually closest to a normal step.  The first variant, however, is hard coded in my Lindy Hop muscle memory.
 
 After learning the variants, we tested them out in standard patterns.  Sometimes they fit in smoothly. Sometimes they felt incredibly awkward.  We tested them out in swingouts.  When I put the third variant into the 3/4 count triple step, it reinforced the idea that the first half of a swingout should be moving in the forward direction.  The second step falling in front of the first step ensured that the forward momentum continued.  The face off then happened more abruptly, and the swing had to happen quickly and with a bit more force.  I won’t adopt that step variant as a standard in the swingout, but it did help me better understand the directional dynamics of the move. 
 
-## Class 3: Kerry Kapaku and Michael “Falty” Faltesek 
+# Class 3: Kerry Kapaku and Michael “Falty” Faltesek 
 
 Kerry and Falty demonstrated a series of rhythm variations.  It is hard to describe these in writing, but they were fun and challenging to practice.  We started with a six count pattern.  After the rock step, we added six grapevine steps.  We practiced them with both swung rhythms and straight rhythms.  We then worked on variations within the eight count pattern in a circle.  After the first triple step, on the five, leads and follows practiced integrating six quick steps of swung and straight rhythms, before hitting a concluding step on the 8.
 
-# Day 2
+## Day 2
 
-## Class 1: John Tigert and Annabel Quisao
+# Class 1: John Tigert and Annabel Quisao
 
 Our first class of day two centered around a garbage bag metaphor.  John and Annabel used the metaphor to who how to create a comfortable amount of space within closed position.  A garbage bag has ties that can be pulled outwards to cinch the opening shut.  In closed position, cinching downwards with the arms reduces the space.  It can be uncomfortable for the follow, and reduces their ability to move freely and improvise.  Leads practiced lifting their arms upwards and out.  Doing so creates a stronger frame.  We were careful not to put too much lift and expansion.  Too wide a frame is also uncomfortable, as well as tiring.  We found a sweet spot which created  room, but felt like we could stay in that position for a long time. John tied this back to the garbage bag metaphor in a way I didn’t understand completely.  He said something about the position of the arms when one is fitting the bag in the garbage can.  It should be said that while the garbage bag metaphor was useful, John and Annabel explicitly stated it is generally not a good idea to symbolically put leads or follows in garbage bags. 
 
 While the arm expansion was most easily felt in closed position, one can keep that slightly expanded shape at all times.  It is a posture as well as a philosophy.  In open position, if one slouches and drops the shoulders, one reduces the space the body takes up.  The interplay between lead and follow relies on what space is available.  If one cinches the body in open, there is less volume for the follow to react to and move into. 
 
-## Class 2: Peter Strom and Naomi Uyama
+# Class 2: Peter Strom and Naomi Uyama
 
 Peter and Naomi began class with a simple swingout variation.  On the six, instead of continuing into a triple step, the lead caught the follow’s hip, and redirected them into an outside turn.  The combination ended in closed position.  It was a nice, simple combo, which they passed through quickly.  The rest of the class focused on fine tuning a few important concepts. 
 
@@ -50,7 +50,7 @@ Peter defined the term “High Definition Range,” or HDR.  HDR is variation in
 
 Near the end of the class, Peter and Naomi took an aside about a space.   Peter related this to simplicity.  He said that most often, he leads simple moves.   Bobby White said earlier Lindy Hoppers have five moves: side pass, send out, tuckturn, swingout, and circle.  Within those five moves, there is limitless improvisation.  The lead must leave space for the follow to improvise, and then react to the follow’s ideas.  The space is framed by endpoints created by the tension’s oscillation.  Both lead’s and follow’s ideas react to the tension created, and move within the space provided.  Both roles have to be constantly looking for what is possible within those limitations, and match the possibility to the music. 
 
-Class 3:  Kerry Kapaku and Michael “Falty” Faltesek 
+# Class 3:  Kerry Kapaku and Michael “Falty” Faltesek 
 
 Kerry and Falty concluded our class track with a session on sugar pushes.  Falty described how to execute a classic Lindy Hop sugar push.  He said that in the early clips, leads moved very little.  Their steps essentially stay in place. Prior to the class, I executed sugar pushes by beginning with a lot of backwards motion.  I have stepped as I would to lead a swingout; my body moves backwards in space to draw the follow forward.  Falty likened that style of sugar push to West Coast, which uses a lot more lateral movement in sugar pushes.  
 
